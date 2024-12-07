@@ -57,14 +57,30 @@ Here is a step-by-step demonstration of how to use the **IP Analyzer Tool**:
 2. **Add Details** :- Show how to add a new device or IP address/domain to the database.  
    
 
+      https://github.com/user-attachments/assets/8cb9cc37-689b-43cf-bf65-6868114bfeb7
+
+
+
 3. **View Details** :- Demonstrate how to view the details of a device or IP address/domain in the database.  
    
+
+
+      https://github.com/user-attachments/assets/dba3058f-2fd0-45c5-8576-40b4bd438313
+
 
 4. **Ping Using ID** :- Show how to ping a device using its unique ID stored in the database.  
    
 
+      https://github.com/user-attachments/assets/23413ede-1b6b-4198-8ea4-9b6dd09a3c7f
+
+
+
 5. **Remove Using ID** :- Demonstrate how to remove a device or IP/domain from the database by providing its specific ID.  
    
+
+      https://github.com/user-attachments/assets/ba2180f4-737a-470a-8da3-9766b8894f42
+
+
 
 6. **Ping All IP/Domain in the Database** :- Demonstrate how to ping all devices or IPs/domain stored in the database with just one click.  
    
@@ -72,14 +88,30 @@ Here is a step-by-step demonstration of how to use the **IP Analyzer Tool**:
 7. **Traceroute** :- Show how to trace the route using target IP/domain.  
    
 
+      https://github.com/user-attachments/assets/63a53b7e-3673-46b8-bd2c-5a58b5930d23
+
+
+
 8. **Scan Open Ports** :- Demonstrate how to scan a specified range of ports for open services using specific IP/domain .  
    
 
 9. **View Host Configuration** :- Show how to view the host configuration, including IP address, subnet mask, and gateway.  
    
 
+      https://github.com/user-attachments/assets/c79ac7f0-3aa2-4dd5-b501-66a1fff27bcc
+
+
+
 10. **Check Internet Speed** :- Demonstrate how to measure the internet speed, including download & upload speed.  
     
 
+
+      https://github.com/user-attachments/assets/16841c91-ce07-4c66-918e-85d01d884bce
+
+
 11. **Install & Uninstall Speedtest-cli** :- Demonstrate how to install and uninstall the **speedtest-cli** with buit-in options.
+
+
+
+      https://github.com/user-attachments/assets/149b92de-6d89-48fe-baf4-fd2d6064f823
 
