@@ -51,62 +51,62 @@ To run this tool, make sure you have the following installed:
 
 Here is a step-by-step demonstration of how to use the **IP Analyzer Tool**:
 
-1. **Code Execution** :- Walk through the process of executing the full source code of the IP Analyzer Tool.
+1. **Code Execution** :- Executing the full source code of the IP Analyzer Tool.
    
 
 
       https://github.com/user-attachments/assets/c9f0069d-5616-4713-a45e-68c3647fe4a4
 
 
-2. **Ping** :- Demonstrate how to ping a specific IP address or domain to check its reachability and response time.  
+2. **Ping** :- Pinging a specific IP address or domain to check its reachability and response time.  
    
 
       https://github.com/user-attachments/assets/51d0b5b5-d063-497a-8c00-86eca117924e
 
 
-3. **Add Details** :- Show how to add a new device or IP address/domain to the database.  
+3. **Add Details** :- Adding a new device or IP address/domain to the database.  
    
 
       https://github.com/user-attachments/assets/8cb9cc37-689b-43cf-bf65-6868114bfeb7
 
 
 
-4. **View Details** :- Demonstrate how to view the details of a device or IP address/domain in the database.  
+4. **View Details** :- viewing the details of a device or IP address/domain in the database.  
    
 
 
       https://github.com/user-attachments/assets/dba3058f-2fd0-45c5-8576-40b4bd438313
 
 
-5. **Ping Using ID** :- Show how to ping a device using its unique ID stored in the database.  
+5. **Ping Using ID** :- Pinging a device using its unique ID stored in the database.  
    
 
       https://github.com/user-attachments/assets/23413ede-1b6b-4198-8ea4-9b6dd09a3c7f
 
 
 
-6. **Remove Using ID** :- Demonstrate how to remove a device or IP/domain from the database by providing its specific ID.  
+6. **Remove Using ID** :- Removing a device or IP/domain from the database by providing its specific ID.  
    
 
       https://github.com/user-attachments/assets/ba2180f4-737a-470a-8da3-9766b8894f42
 
 
 
-7. **Ping All IP/Domain in the Database** :- Demonstrate how to ping all devices or IPs/domain stored in the database with just one click.  
+7. **Ping All IP/Domain in the Database** :- Pinging all devices or IPs/domain stored in the database with just one click.  
    
 
       https://github.com/user-attachments/assets/126296eb-f8d7-44ff-b5e8-66a8d0b202a1
 
 
 
-8. **Traceroute** :- Show how to trace the route using target IP/domain.  
+8. **Traceroute** :- Tracing the route using target IP/domain.  
    
 
       https://github.com/user-attachments/assets/63a53b7e-3673-46b8-bd2c-5a58b5930d23
 
 
 
-9. **Scan Open Ports** :- Demonstrate how to scan a specified range of ports for open services using specific IP/domain.  
+9. **Scan Open Ports** :- Scanning a specified range of ports for open services using specific IP/domain.  
    **Video:1**
 
       https://github.com/user-attachments/assets/dca17d82-368b-4255-8e66-a38742966489
@@ -117,21 +117,21 @@ Here is a step-by-step demonstration of how to use the **IP Analyzer Tool**:
 
 
 
-10. **View Host Configuration** :- Show how to view the host configuration, including IP address, subnet mask, and gateway.  
+10. **View Host Configuration** :- Viewing the host configuration, including IP address, subnet mask, and gateway.  
    
 
       https://github.com/user-attachments/assets/c79ac7f0-3aa2-4dd5-b501-66a1fff27bcc
 
 
 
-11. **Check Internet Speed** :- Demonstrate how to measure the internet speed, including download & upload speed.  
+11. **Check Internet Speed** :- Measuring the internet speed, including download & upload speed.  
     
 
 
       https://github.com/user-attachments/assets/16841c91-ce07-4c66-918e-85d01d884bce
 
 
-12. **Install & Uninstall Speedtest-cli** :- Demonstrate how to install and uninstall the **speedtest-cli** with buit-in options.
+12. **Install & Uninstall Speedtest-cli** :- Installing and uninstalling the **speedtest-cli** with buit-in options.
 
 
 
