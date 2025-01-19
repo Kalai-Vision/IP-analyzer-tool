@@ -3,7 +3,7 @@
 ## Description:-
 The **IP Analyzer Tool** is a Python-based application that helps users analyze IP addresses and domain names. The tool allows users to monitor and manage devices on a network, view configurations, and troubleshoot network issues. All through a user-friendly graphical interface built with Tkinter.
 
-### Features:-
+## Features:-
 - **Ping Analyzer**:  Ping any IP address or domain and check if the host is active. Measures response time, TTL (Time to Live), and packet loss.
 - **Traceroute**:  Trace the route of packets from your machine to a remote IP or domain and see the path and delays.
 - **Port Scanner**:  Scan ports on a given IP address to check for open ports.
@@ -12,20 +12,28 @@ The **IP Analyzer Tool** is a Python-based application that helps users analyze 
 - **Device Management**:  Add, remove, and view devices using an SQLite database to store device information (IP address, device name, and type).
 - **User-friendly Interface**:  Full-screen mode with clear controls.
 
-### Requirements:-
+## Requirements:-
 To run this tool, make sure you have the following installed:
 - Python 3.8
 - PyCharm
 - speedtest-cli (You can install or uninstall speedtest-cli using pip, or this app provides options to install and uninstall it)
 
-### Required Python packages:-
+## Required Python packages:-
 - `tkinter`: Standard Python library for creating graphical user interfaces. It provides tools to build windows, buttons, text boxes, and other GUI elements.
 - `subprocess`: Allows execution of external commands within Python, enabling interaction with system processes and retrieval of their output.
 - `ipaddress`: A module for creating, manipulating, and validating IPv4 and IPv6 addresses and networks. It simplifies working with IP addresses in Python.
 - `socket`: A module that enables low-level networking in Python, allowing the creation of network connections. It's essential for building client-server applications and facilitates communication between devices on a network.
 - `sqlite3`: A lightweight disk-based database. This module allows Python applications to interact with SQLite databases, making it easy to store and retrieve data.
 - `speedtest-cli` (optional): It allows you to measure the download and upload speeds of your internet connection using the Speedtest.net service. It is an external library that needs to be installed.
----
+
+
+## Setup Instructions:-
+
+1. Clone the repository from GitHub.
+2. Install the required dependencies.
+3. Run the application by executing the `main_window.py` script.
+   
+
 
 ## How to Use:-
 1. **Ping**: Enter the IP address or domain name and the number of packets. Click the "Ping IP/Domain" button.
@@ -39,13 +47,13 @@ To run this tool, make sure you have the following installed:
 9. **Remove by ID**: Enter the ID of the device and click "Remove Device."
 10. **Configuration**: Click "Network Status" to view the current Host configuration.
 
----
+
 
 ## Troubleshooting:-
 - Ensure your internet connection is active for functions like pinging, traceroute, port scanning, and speed testing.
 - If speedtest fails, check if `speedtest-cli` is installed properly.
 
----
+
 
 ## Video Demonstration:-
 
